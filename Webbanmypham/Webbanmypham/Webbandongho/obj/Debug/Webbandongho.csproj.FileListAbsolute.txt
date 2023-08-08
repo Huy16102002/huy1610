@@ -1,0 +1,295 @@
+E:\BTL\Webbandongho\Webbandongho\bin\Webbandongho.dll.config
+E:\BTL\Webbandongho\Webbandongho\bin\Webbandongho.dll
+E:\BTL\Webbandongho\Webbandongho\bin\Webbandongho.pdb
+E:\BTL\Webbandongho\Webbandongho\bin\roslyn\csc.exe
+E:\BTL\Webbandongho\Webbandongho\bin\roslyn\csc.exe.config
+E:\BTL\Webbandongho\Webbandongho\bin\roslyn\csc.rsp
+E:\BTL\Webbandongho\Webbandongho\bin\roslyn\csi.exe
+E:\BTL\Webbandongho\Webbandongho\bin\roslyn\csi.exe.config
+E:\BTL\Webbandongho\Webbandongho\bin\roslyn\csi.rsp
+E:\BTL\Webbandongho\Webbandongho\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\BTL\Webbandongho\Webbandongho\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\BTL\Webbandongho\Webbandongho\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\BTL\Webbandongho\Webbandongho\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\BTL\Webbandongho\Webbandongho\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\BTL\Webbandongho\Webbandongho\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\BTL\Webbandongho\Webbandongho\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\BTL\Webbandongho\Webbandongho\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\BTL\Webbandongho\Webbandongho\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\BTL\Webbandongho\Webbandongho\bin\roslyn\Microsoft.Managed.Core.targets
+E:\BTL\Webbandongho\Webbandongho\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\BTL\Webbandongho\Webbandongho\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\BTL\Webbandongho\Webbandongho\bin\roslyn\System.AppContext.dll
+E:\BTL\Webbandongho\Webbandongho\bin\roslyn\System.Collections.Immutable.dll
+E:\BTL\Webbandongho\Webbandongho\bin\roslyn\System.Console.dll
+E:\BTL\Webbandongho\Webbandongho\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\BTL\Webbandongho\Webbandongho\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\BTL\Webbandongho\Webbandongho\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\BTL\Webbandongho\Webbandongho\bin\roslyn\System.Globalization.Calendars.dll
+E:\BTL\Webbandongho\Webbandongho\bin\roslyn\System.IO.Compression.dll
+E:\BTL\Webbandongho\Webbandongho\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\BTL\Webbandongho\Webbandongho\bin\roslyn\System.IO.FileSystem.dll
+E:\BTL\Webbandongho\Webbandongho\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\BTL\Webbandongho\Webbandongho\bin\roslyn\System.Net.Http.dll
+E:\BTL\Webbandongho\Webbandongho\bin\roslyn\System.Net.Sockets.dll
+E:\BTL\Webbandongho\Webbandongho\bin\roslyn\System.Reflection.Metadata.dll
+E:\BTL\Webbandongho\Webbandongho\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\BTL\Webbandongho\Webbandongho\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\BTL\Webbandongho\Webbandongho\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\BTL\Webbandongho\Webbandongho\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\BTL\Webbandongho\Webbandongho\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\BTL\Webbandongho\Webbandongho\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\BTL\Webbandongho\Webbandongho\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\BTL\Webbandongho\Webbandongho\bin\roslyn\System.ValueTuple.dll
+E:\BTL\Webbandongho\Webbandongho\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\BTL\Webbandongho\Webbandongho\bin\roslyn\System.Xml.XmlDocument.dll
+E:\BTL\Webbandongho\Webbandongho\bin\roslyn\System.Xml.XPath.dll
+E:\BTL\Webbandongho\Webbandongho\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\BTL\Webbandongho\Webbandongho\bin\roslyn\vbc.exe
+E:\BTL\Webbandongho\Webbandongho\bin\roslyn\vbc.exe.config
+E:\BTL\Webbandongho\Webbandongho\bin\roslyn\vbc.rsp
+E:\BTL\Webbandongho\Webbandongho\bin\roslyn\VBCSCompiler.exe
+E:\BTL\Webbandongho\Webbandongho\bin\roslyn\VBCSCompiler.exe.config
+E:\BTL\Webbandongho\Webbandongho\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\BTL\Webbandongho\Webbandongho\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\BTL\Webbandongho\Webbandongho\obj\Debug\Webbandongho.csprojAssemblyReference.cache
+E:\BTL\Webbandongho\Webbandongho\obj\Debug\Webbandongho.csproj.CoreCompileInputs.cache
+E:\BTL\Webbandongho\Webbandongho\obj\Debug\Webbandongho.csproj.CopyComplete
+E:\BTL\Webbandongho\Webbandongho\obj\Debug\Webbandongho.dll
+E:\BTL\Webbandongho\Webbandongho\obj\Debug\Webbandongho.pdb
+D:\HOU\Lập trình web\web\Webbandongho\bin\Webbandongho.dll.config
+D:\HOU\Lập trình web\web\Webbandongho\bin\Webbandongho.dll
+D:\HOU\Lập trình web\web\Webbandongho\bin\Webbandongho.pdb
+D:\HOU\Lập trình web\web\Webbandongho\bin\roslyn\csc.exe
+D:\HOU\Lập trình web\web\Webbandongho\bin\roslyn\csc.exe.config
+D:\HOU\Lập trình web\web\Webbandongho\bin\roslyn\csc.rsp
+D:\HOU\Lập trình web\web\Webbandongho\bin\roslyn\csi.exe
+D:\HOU\Lập trình web\web\Webbandongho\bin\roslyn\csi.exe.config
+D:\HOU\Lập trình web\web\Webbandongho\bin\roslyn\csi.rsp
+D:\HOU\Lập trình web\web\Webbandongho\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\HOU\Lập trình web\web\Webbandongho\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\HOU\Lập trình web\web\Webbandongho\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\HOU\Lập trình web\web\Webbandongho\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\HOU\Lập trình web\web\Webbandongho\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\HOU\Lập trình web\web\Webbandongho\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\HOU\Lập trình web\web\Webbandongho\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\HOU\Lập trình web\web\Webbandongho\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\HOU\Lập trình web\web\Webbandongho\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\HOU\Lập trình web\web\Webbandongho\bin\roslyn\Microsoft.Managed.Core.targets
+D:\HOU\Lập trình web\web\Webbandongho\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\HOU\Lập trình web\web\Webbandongho\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\HOU\Lập trình web\web\Webbandongho\bin\roslyn\System.AppContext.dll
+D:\HOU\Lập trình web\web\Webbandongho\bin\roslyn\System.Collections.Immutable.dll
+D:\HOU\Lập trình web\web\Webbandongho\bin\roslyn\System.Console.dll
+D:\HOU\Lập trình web\web\Webbandongho\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\HOU\Lập trình web\web\Webbandongho\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\HOU\Lập trình web\web\Webbandongho\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\HOU\Lập trình web\web\Webbandongho\bin\roslyn\System.Globalization.Calendars.dll
+D:\HOU\Lập trình web\web\Webbandongho\bin\roslyn\System.IO.Compression.dll
+D:\HOU\Lập trình web\web\Webbandongho\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\HOU\Lập trình web\web\Webbandongho\bin\roslyn\System.IO.FileSystem.dll
+D:\HOU\Lập trình web\web\Webbandongho\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\HOU\Lập trình web\web\Webbandongho\bin\roslyn\System.Net.Http.dll
+D:\HOU\Lập trình web\web\Webbandongho\bin\roslyn\System.Net.Sockets.dll
+D:\HOU\Lập trình web\web\Webbandongho\bin\roslyn\System.Reflection.Metadata.dll
+D:\HOU\Lập trình web\web\Webbandongho\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\HOU\Lập trình web\web\Webbandongho\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\HOU\Lập trình web\web\Webbandongho\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\HOU\Lập trình web\web\Webbandongho\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\HOU\Lập trình web\web\Webbandongho\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\HOU\Lập trình web\web\Webbandongho\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\HOU\Lập trình web\web\Webbandongho\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\HOU\Lập trình web\web\Webbandongho\bin\roslyn\System.ValueTuple.dll
+D:\HOU\Lập trình web\web\Webbandongho\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\HOU\Lập trình web\web\Webbandongho\bin\roslyn\System.Xml.XmlDocument.dll
+D:\HOU\Lập trình web\web\Webbandongho\bin\roslyn\System.Xml.XPath.dll
+D:\HOU\Lập trình web\web\Webbandongho\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\HOU\Lập trình web\web\Webbandongho\bin\roslyn\vbc.exe
+D:\HOU\Lập trình web\web\Webbandongho\bin\roslyn\vbc.exe.config
+D:\HOU\Lập trình web\web\Webbandongho\bin\roslyn\vbc.rsp
+D:\HOU\Lập trình web\web\Webbandongho\bin\roslyn\VBCSCompiler.exe
+D:\HOU\Lập trình web\web\Webbandongho\bin\roslyn\VBCSCompiler.exe.config
+D:\HOU\Lập trình web\web\Webbandongho\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\HOU\Lập trình web\web\Webbandongho\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\HOU\Lập trình web\web\Webbandongho\obj\Debug\Webbandongho.csprojAssemblyReference.cache
+D:\HOU\Lập trình web\web\Webbandongho\obj\Debug\Webbandongho.csproj.CoreCompileInputs.cache
+D:\HOU\Lập trình web\web\Webbandongho\obj\Debug\Webbandongho.csproj.CopyComplete
+D:\HOU\Lập trình web\web\Webbandongho\obj\Debug\Webbandongho.dll
+D:\HOU\Lập trình web\web\Webbandongho\obj\Debug\Webbandongho.pdb
+E:\BTL LTW\web\Webbandongho\bin\Webbandongho.dll.config
+E:\BTL LTW\web\Webbandongho\bin\Webbandongho.dll
+E:\BTL LTW\web\Webbandongho\bin\Webbandongho.pdb
+E:\BTL LTW\web\Webbandongho\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\BTL LTW\web\Webbandongho\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\BTL LTW\web\Webbandongho\obj\Debug\Webbandongho.csprojAssemblyReference.cache
+E:\BTL LTW\web\Webbandongho\obj\Debug\Webbandongho.csproj.CoreCompileInputs.cache
+E:\BTL LTW\web\Webbandongho\obj\Debug\Webbandongho.csproj.CopyComplete
+E:\BTL LTW\web\Webbandongho\obj\Debug\Webbandongho.dll
+E:\BTL LTW\web\Webbandongho\obj\Debug\Webbandongho.pdb
+E:\BTL LTW\web\Webbandongho\bin\roslyn\csc.exe
+E:\BTL LTW\web\Webbandongho\bin\roslyn\csc.exe.config
+E:\BTL LTW\web\Webbandongho\bin\roslyn\csc.rsp
+E:\BTL LTW\web\Webbandongho\bin\roslyn\csi.exe
+E:\BTL LTW\web\Webbandongho\bin\roslyn\csi.exe.config
+E:\BTL LTW\web\Webbandongho\bin\roslyn\csi.rsp
+E:\BTL LTW\web\Webbandongho\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\BTL LTW\web\Webbandongho\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\BTL LTW\web\Webbandongho\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\BTL LTW\web\Webbandongho\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\BTL LTW\web\Webbandongho\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\BTL LTW\web\Webbandongho\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\BTL LTW\web\Webbandongho\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\BTL LTW\web\Webbandongho\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\BTL LTW\web\Webbandongho\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\BTL LTW\web\Webbandongho\bin\roslyn\Microsoft.Managed.Core.targets
+E:\BTL LTW\web\Webbandongho\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\BTL LTW\web\Webbandongho\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\BTL LTW\web\Webbandongho\bin\roslyn\System.AppContext.dll
+E:\BTL LTW\web\Webbandongho\bin\roslyn\System.Collections.Immutable.dll
+E:\BTL LTW\web\Webbandongho\bin\roslyn\System.Console.dll
+E:\BTL LTW\web\Webbandongho\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\BTL LTW\web\Webbandongho\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\BTL LTW\web\Webbandongho\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\BTL LTW\web\Webbandongho\bin\roslyn\System.Globalization.Calendars.dll
+E:\BTL LTW\web\Webbandongho\bin\roslyn\System.IO.Compression.dll
+E:\BTL LTW\web\Webbandongho\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\BTL LTW\web\Webbandongho\bin\roslyn\System.IO.FileSystem.dll
+E:\BTL LTW\web\Webbandongho\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\BTL LTW\web\Webbandongho\bin\roslyn\System.Net.Http.dll
+E:\BTL LTW\web\Webbandongho\bin\roslyn\System.Net.Sockets.dll
+E:\BTL LTW\web\Webbandongho\bin\roslyn\System.Reflection.Metadata.dll
+E:\BTL LTW\web\Webbandongho\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\BTL LTW\web\Webbandongho\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\BTL LTW\web\Webbandongho\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\BTL LTW\web\Webbandongho\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\BTL LTW\web\Webbandongho\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\BTL LTW\web\Webbandongho\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\BTL LTW\web\Webbandongho\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\BTL LTW\web\Webbandongho\bin\roslyn\System.ValueTuple.dll
+E:\BTL LTW\web\Webbandongho\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\BTL LTW\web\Webbandongho\bin\roslyn\System.Xml.XmlDocument.dll
+E:\BTL LTW\web\Webbandongho\bin\roslyn\System.Xml.XPath.dll
+E:\BTL LTW\web\Webbandongho\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\BTL LTW\web\Webbandongho\bin\roslyn\vbc.exe
+E:\BTL LTW\web\Webbandongho\bin\roslyn\vbc.exe.config
+E:\BTL LTW\web\Webbandongho\bin\roslyn\vbc.rsp
+E:\BTL LTW\web\Webbandongho\bin\roslyn\VBCSCompiler.exe
+E:\BTL LTW\web\Webbandongho\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\Downloads\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\Webbandongho.dll.config
+C:\Users\ASUS\Downloads\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\Webbandongho.dll
+C:\Users\ASUS\Downloads\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\Webbandongho.pdb
+C:\Users\ASUS\Downloads\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\csc.exe
+C:\Users\ASUS\Downloads\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\csc.exe.config
+C:\Users\ASUS\Downloads\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\csc.rsp
+C:\Users\ASUS\Downloads\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\csi.exe
+C:\Users\ASUS\Downloads\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\csi.exe.config
+C:\Users\ASUS\Downloads\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\csi.rsp
+C:\Users\ASUS\Downloads\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\Downloads\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Downloads\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ASUS\Downloads\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Downloads\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ASUS\Downloads\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\Downloads\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\Downloads\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ASUS\Downloads\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ASUS\Downloads\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ASUS\Downloads\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\Downloads\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ASUS\Downloads\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\System.AppContext.dll
+C:\Users\ASUS\Downloads\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\Downloads\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\System.Console.dll
+C:\Users\ASUS\Downloads\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\Downloads\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ASUS\Downloads\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ASUS\Downloads\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ASUS\Downloads\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\System.IO.Compression.dll
+C:\Users\ASUS\Downloads\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ASUS\Downloads\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ASUS\Downloads\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ASUS\Downloads\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\System.Net.Http.dll
+C:\Users\ASUS\Downloads\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ASUS\Downloads\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\Downloads\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ASUS\Downloads\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ASUS\Downloads\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ASUS\Downloads\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ASUS\Downloads\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ASUS\Downloads\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ASUS\Downloads\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS\Downloads\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\System.ValueTuple.dll
+C:\Users\ASUS\Downloads\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ASUS\Downloads\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ASUS\Downloads\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ASUS\Downloads\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ASUS\Downloads\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\vbc.exe
+C:\Users\ASUS\Downloads\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\vbc.exe.config
+C:\Users\ASUS\Downloads\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\vbc.rsp
+C:\Users\ASUS\Downloads\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\Downloads\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\Downloads\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS\Downloads\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\Downloads\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\obj\Debug\Webbandongho.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\obj\Debug\Webbandongho.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\obj\Debug\Webbandongho.csproj.CopyComplete
+C:\Users\ASUS\Downloads\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\obj\Debug\Webbandongho.dll
+C:\Users\ASUS\Downloads\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\obj\Debug\Webbandongho.pdb
+D:\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\Webbandongho.dll.config
+D:\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\Webbandongho.dll
+D:\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\Webbandongho.pdb
+D:\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\csc.exe
+D:\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\csc.exe.config
+D:\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\csc.rsp
+D:\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\csi.exe
+D:\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\csi.exe.config
+D:\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\csi.rsp
+D:\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\System.AppContext.dll
+D:\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\System.Collections.Immutable.dll
+D:\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\System.Console.dll
+D:\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\System.Globalization.Calendars.dll
+D:\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\System.IO.Compression.dll
+D:\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\System.IO.FileSystem.dll
+D:\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\System.Net.Http.dll
+D:\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\System.Net.Sockets.dll
+D:\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\System.Reflection.Metadata.dll
+D:\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\System.ValueTuple.dll
+D:\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\System.Xml.XPath.dll
+D:\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\vbc.exe
+D:\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\vbc.exe.config
+D:\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\vbc.rsp
+D:\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\VBCSCompiler.exe
+D:\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\roslyn\VBCSCompiler.exe.config
+D:\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\obj\Debug\Webbandongho.csproj.AssemblyReference.cache
+D:\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\obj\Debug\Webbandongho.csproj.CoreCompileInputs.cache
+D:\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\obj\Debug\Webbandongho.csproj.CopyComplete
+D:\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\obj\Debug\Webbandongho.dll
+D:\Webbandongho-20220323T133215Z-001\Webbandongho\Webbandongho\obj\Debug\Webbandongho.pdb
